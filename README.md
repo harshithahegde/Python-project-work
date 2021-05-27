@@ -1,4 +1,4 @@
-(My link for project is down please verify)
+(MY LINK for Project is down Please Verify)
 # SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
